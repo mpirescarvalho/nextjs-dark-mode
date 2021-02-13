@@ -1,11 +1,12 @@
-# Netx.js dark mode
+# Next.js dark mode
 
 <p align="start">
 	  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mpirescarvalho/nextjs-dark-mode">
 	  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mpirescarvalho/nextjs-dark-mode">
 </p>
 
-Simple starter code for Next.js projects with dark mode toggle without `dark mode flicker`.
+Simple starter code for Next.js projects with dark mode toggle, without suffering from `dark mode flicker` because of SSR or SSG (server side rendering).
+
 Credits goes to Josh Comeau. To learn more, visit his [article](https://www.joshwcomeau.com/react/dark-mode/).
 
 ---
